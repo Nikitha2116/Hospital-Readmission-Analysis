@@ -8,7 +8,7 @@
 ## 🎯 Why This Project?
 Hospitals in the US lose **millions of dollars** every year when patients are readmitted within 30 days of discharge. As a data analyst, I wanted to answer one simple but powerful question:
 
-> 💬 **"Which patients are most likely to come back — and what should the hospital do about it?"**
+> 💬 **"Which patients are most likely to come back - and what should the hospital do about it?"**
 
 Healthcare DA roles are growing **31% year over year** 🚀 and readmission analysis is at the core of hospital operations, insurance analytics, and clinical decision-making.
 
@@ -28,9 +28,9 @@ Analyzed **30,000 real patient records** to uncover which factors actually predi
 
 ## 💡 Key Findings
 
-- 🔴 **Discharge destination is the #1 risk factor** — Nursing Facility & Rehab patients readmitted at nearly 40% higher rates than Home patients
-- 🟡 **Age does NOT predict readmission** — all age groups sit at ~12%
-- 🟡 **Length of stay does NOT predict readmission** — flat trend across 1–10 days
+- 🔴 **Discharge destination is the #1 risk factor** - Nursing Facility & Rehab patients readmitted at nearly 40% higher rates than Home patients
+- 🟡 **Age does NOT predict readmission** - all age groups sit at ~12%
+- 🟡 **Length of stay does NOT predict readmission** - flat trend across 1-10 days
 - 🟢 **Overall readmission rate is 12.2%** across 30,000 patients
 
 ---
@@ -64,5 +64,5 @@ Analyzed **30,000 real patient records** to uncover which factors actually predi
 
 ---
 
-*⚡ Project completed as part of a 7-day data analytics sprint — Spring Break 2026*
+*⚡ Project completed as part of a 7-day data analytics sprint - Spring Break 2026*
 *👩‍💻 Built to demonstrate real-world healthcare analytics skills*
