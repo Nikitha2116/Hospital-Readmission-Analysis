@@ -54,7 +54,7 @@ Analyzed **30,000 real patient records** to uncover which factors actually predi
 | File | Description |
 |------|-------------|
 | 📓 `hospital_readmission_analysis.ipynb` | Full analysis notebook |
-| 📂 `hospital_readmissions_30k.csv` | Dataset — 30,000 patient records |
+| 📂 `hospital_readmissions_30k.csv` | Dataset - 30,000 patient records |
 | 📄 `analyst_memo.pdf` | 1-page findings report |
 
 ---
@@ -65,4 +65,5 @@ Analyzed **30,000 real patient records** to uncover which factors actually predi
 ---
 
 *⚡ Project completed as part of a 7-day data analytics sprint - Spring Break 2026*
+
 *👩‍💻 Built to demonstrate real-world healthcare analytics skills*
